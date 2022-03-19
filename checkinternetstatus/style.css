@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(#373844, #4286f2);
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    /* TO CENTER THE .ststus WITHIN BODY */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.status {
+    padding: 20px 40px;
+    font-family: Helvetica;
+    color: #fff;
+    letter-spacing: 1px;
+}
